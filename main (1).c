@@ -2,6 +2,8 @@
 
 int main()
 {
+    
+    //add comments to code
     printf("Hello World\n");
   create_connect(); 
 
